@@ -13,7 +13,7 @@ The aim of this application is to:
 
 Requirements:
 - A **Raspberry Pi 2/3** (a, b, b+) .
-- An **Aold webcam**.
+- An **old webcam**.
 - (Optional) A **Resistor of 1k-5k ohms** (depending on your doorbell).
 
 **Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).**
