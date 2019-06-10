@@ -1,8 +1,7 @@
-  ![logo](https://i.imgur.com/aGICZEF.png)#theDoorbellThatCould
+  #theDoorbellThatCould
  
 
- 
-Doorbell image notifications, daily doorbell gallery and configurable randomized notification texts.
+ ![logo](https://i.imgur.com/aGICZEF.png) Doorbell image notifications, daily doorbell gallery and configurable randomized notification texts.
 
 Create your own retro-fitted £30 ringing doorbell using a Raspberry Pi and an old webcam.
 
