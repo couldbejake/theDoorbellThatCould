@@ -1,5 +1,5 @@
 # theDoorbellThatCould
-Doorbell notifications with webcam images, daily doorbell gallery and configurable randomized notification texts.
+Doorbell image notifications, daily doorbell gallery and configurable randomized notification texts.
 
 Create your own retro-fitted £30 ringing doorbell using a Raspberry Pi and an old webcam.
 
@@ -10,9 +10,9 @@ The aim of this application is to:
 - **Additional (configurable) event notifications**.
 
 Requirements
-- Raspberry Pi 2 or 3.
-- An old webcam.
-- Optionally a Resistor of 1k-5k ohms (depending on your doorbell).
+- **Raspberry Pi 2 or 3**.
+- **An old webcam**.
+- **Optionally a Resistor of 1k-5k ohms** (depending on your doorbell).
 
 Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).
 
