@@ -19,3 +19,5 @@ Requirements:
 Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).
 
 If you have any suggestions, please be sure to add them to the issues tab!
+
+##### Logo features Font-awesome "bell" logo, thank you font awesome!
