@@ -20,4 +20,4 @@ Visit the Wiki for information on [installation](https://github.com/couldbejake/
 
 If you have any suggestions, please be sure to add them to the issues tab!
 
-##### Logo features Font-awesome "bell" logo, thank you font awesome!
+ ##### Logo features Font-awesome ["bell"](https://github.com/couldbejake/theDoorbellThatCould/wiki/) logo, thank you font awesome!
