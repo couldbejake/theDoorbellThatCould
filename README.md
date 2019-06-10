@@ -9,7 +9,7 @@ The aim of this application is to:
 - **Randomized messages when your doorbell is pressed**.
 - **Additional (configurable) event notifications**.
 
-Requirements
+Requirements:
 - **Raspberry Pi 2 or 3**.
 - **An old webcam**.
 - **Optionally a Resistor of 1k-5k ohms** (depending on your doorbell).
