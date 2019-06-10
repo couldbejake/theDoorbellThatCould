@@ -3,7 +3,7 @@
 
   Doorbell image notifications, daily doorbell gallery and configurable randomized notification texts.
 
-Create your own retro-fitted £30 ringing doorbell using a Raspberry Pi and an old webcam.
+Create your own **retro-fitted £30 ringing doorbell using a Raspberry Pi** and an **old webcam**.
 
 The aim of this application is to:
 - **Provide users with a picture of the doorbell when your doorbell rings**.
