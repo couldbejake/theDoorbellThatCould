@@ -1,0 +1,6 @@
+{
+    "app_key": "<APP KEY HERE>",
+    "app_secret": "<APP SECRET HERE>",
+    "target_type": "channel",
+    "target_alias": "<CHANNEL ALIAS KEY>"
+}

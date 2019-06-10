@@ -1,0 +1,25 @@
+{
+  "messages": [
+	{
+	  "text": "Someone is at the front door!",
+	  "chance": "10"
+	},
+	{
+	  "text": "Buzz, Buzz, there's someone outside the front door",
+	  "chance": "20"
+	},
+	{
+	  "text": "Knock knock, someone's at the door!",
+	  "chance": "20"
+	},
+	{
+	  "text": "Hey, wake up there's someone at the front door!",
+	  "chance": "20"
+	},
+	{
+	  "text": "Ding Dong, someone's at the door.",
+	  "chance": "30"
+	}
+  ]
+
+}

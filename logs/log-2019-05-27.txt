@@ -1,0 +1,842 @@
+DEBUG:root:2019-05-27 09:46hello!
+DEBUG:root:(2019-05-27 09:46)hello!
+DEBUG:root:(2019-05-27 09:46) hello!
+DEBUG:root:(2019-05-27 09:48) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 09:49) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 09:49) Loading Pushed Credentials
+DEBUG:root:(2019-05-27 09:52) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 09:52) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:01) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:01) Loading Pushed Credentials
+DEBUG:root:(2019-05-27 10:01) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:01) Loading Pushed Credentials
+DEBUG:root:(2019-05-27 10:01) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:02) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:02) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:02) Setup GPIO Pins
+DEBUG:root:(2019-05-27 10:02) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:02) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:02) Setup GPIO Pins
+DEBUG:root:(2019-05-27 10:02) Done!
+DEBUG:root:(2019-05-27 10:02) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:02) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:02) Setup GPIO Pins
+DEBUG:root:(2019-05-27 10:02) Done!
+DEBUG:root:(2019-05-27 10:03) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:03) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:03) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:03) Done!
+DEBUG:root:(2019-05-27 10:04) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:04) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:04) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:04) Done!
+DEBUG:root:(2019-05-27 10:05) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:05) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:05) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:05) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:05) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:05) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:05) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:05) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:05) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:05) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:05) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:05) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:05) Done!
+DEBUG:root:(2019-05-27 10:06) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:06) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:06) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:06) Done!
+DEBUG:root:(2019-05-27 10:06) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:06) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:06) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:06) Done!
+DEBUG:root:(2019-05-27 10:08) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:08) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:08) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:08) Done!
+DEBUG:root:(2019-05-27 10:10) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:10) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:10) Setup RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:10) Done!
+DEBUG:root:Stopped at (2019-05-27 10:10) 
+DEBUG:root:(2019-05-27 10:11) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:11) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:11) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:11) Done!
+DEBUG:root:(2019-05-27 10:21) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:21) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:21) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:21) Done!
+DEBUG:root:(2019-05-27 10:22) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:22) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:22) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:22) Done!
+DEBUG:root:(2019-05-27 10:23) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:23) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:23) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:23) Done!
+DEBUG:root:(2019-05-27 10:24) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:24) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:24) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:24) Done!
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/oauth/verify HTTP/1.1" 405 None
+DEBUG:root:(2019-05-27 10:24) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:24) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:24) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:24) Done!
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 10:27) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 10:27) Loaded Pushed Credentials
+DEBUG:root:(2019-05-27 10:27) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 10:27) Done!
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:Stopped at (2019-05-27 10:28) 
+DEBUG:root:(2019-05-27 12:30) Starting CouldHome version 0.1b
+DEBUG:root:(2019-05-27 12:30) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:30) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:Stopped at (2019-05-27 12:31) 
+DEBUG:root:(2019-05-27 12:31) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:31) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:31) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:32) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:32) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:32) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:33) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:33) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:33) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:34) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:34) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:34) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:35) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:35) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:35) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:35) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:35) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:35) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:36) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:36) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:36) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:36) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:36) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:36) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:36) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:36) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:36) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:37) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:37) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:37) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:37) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:37) ----
+DEBUG:root:(2019-05-27 12:38) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:38) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:38) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:38) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:38) ----
+DEBUG:root:(2019-05-27 12:38) ----
+DEBUG:root:(2019-05-27 12:39) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:39) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:39) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:39) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:39) ----
+DEBUG:root:(2019-05-27 12:39) {'response': {'type': 'shipment_successfully_sent', 'message': 'Shipment successfully sent.', 'data': {'shipment': '64tn8WBNul'}}}
+DEBUG:root:(2019-05-27 12:39) ----
+DEBUG:root:(2019-05-27 12:39) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:39) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:39) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:39) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:39) ----
+DEBUG:root:(2019-05-27 12:39) {'response': {'type': 'shipment_successfully_sent', 'message': 'Shipment successfully sent.', 'data': {'shipment': 'uUibaqrLNq'}}}
+DEBUG:root:(2019-05-27 12:39) ----
+DEBUG:root:(2019-05-27 12:40) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:40) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:40) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:40) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:40) ----
+DEBUG:root:(2019-05-27 12:40) {'response': {'type': 'shipment_successfully_sent', 'message': 'Shipment successfully sent.', 'data': {'shipment': 'hEOeeMyEqH'}}}
+DEBUG:root:(2019-05-27 12:40) ----
+DEBUG:root:(2019-05-27 12:40) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:40) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:40) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:40) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:40) ----
+DEBUG:root:(2019-05-27 12:40) {'response': {'type': 'shipment_successfully_sent', 'message': 'Shipment successfully sent.', 'data': {'shipment': 'Bp0f9EQbjY'}}}
+DEBUG:root:(2019-05-27 12:40) ----
+DEBUG:root:(2019-05-27 12:40) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:40) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:40) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:40) Error sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:40) ----
+DEBUG:root:(2019-05-27 12:40) {'response': {'type': 'shipment_successfully_sent', 'message': 'Shipment successfully sent.', 'data': {'shipment': 'hr9klUGoFy'}}}
+DEBUG:root:(2019-05-27 12:40) ----
+DEBUG:root:(2019-05-27 12:41) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:41) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:41) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:41) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:41) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:41) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:41) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:41) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:41) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:42) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:42) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:42) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:42) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:42) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:42) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:44) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:44) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:44) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:44) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:44) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:44) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:44) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 12:45) ERROR: Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:45) --[ Response 401]--
+DEBUG:root:(2019-05-27 12:45) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 12:45) ----
+DEBUG:root:(2019-05-27 12:45) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:45) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:45) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:45) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 12:45) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 12:45) -- [ (ERROR) Response 401 ] --
+DEBUG:root:(2019-05-27 12:45) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 12:45) ----
+DEBUG:root:(2019-05-27 12:45) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:46) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:46) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:46) Loaded PUSHED credentials
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:46) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:47) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:47) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:47) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:47) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:47) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:47) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:47) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:47) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:47) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:47) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:47) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:47) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:47) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:47) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:47) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:47) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 12:47) Done!
+DEBUG:root:(2019-05-27 12:47) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:47) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:48) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:48) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:48) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:48) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:48) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:48) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 12:48) Done!
+DEBUG:root:(2019-05-27 12:48) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:48) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:48) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:48) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:48) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:48) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:48) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:48) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 12:48) Done!
+DEBUG:root:(2019-05-27 12:48) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:root:(2019-05-27 12:51) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:51) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:51) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:51) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:51) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:51) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 12:51) Done!
+DEBUG:root:(2019-05-27 12:51) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:51) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:51) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:51) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:51) Loaded PUSHED credentials
+DEBUG:root:(2019-05-27 12:51) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:51) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:51) Setup Doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 12:51) Done!
+DEBUG:root:(2019-05-27 12:51) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:51) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 12:57) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 12:57) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 12:57) Loading doorbell messages
+DEBUG:root:(2019-05-27 12:57) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 12:57) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 12:57) Done!
+DEBUG:root:(2019-05-27 12:57) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 12:57) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:01) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:01) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:01) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:01) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:01) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:01) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:01) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:01) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:01) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:01) Done!
+DEBUG:root:(2019-05-27 13:01) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:01) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:02) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:02) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:02) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:02) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:02) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:02) Done!
+DEBUG:root:(2019-05-27 13:02) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 13:02) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 13:02) -- [ Response 401 ] --
+DEBUG:root:(2019-05-27 13:02) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 13:02) ----
+DEBUG:root:(2019-05-27 13:02) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:02) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:02) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:02) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:02) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:02) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:02) Done!
+DEBUG:root:(2019-05-27 13:02) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:02) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:03) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:03) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:03) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:03) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:03) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:03) Done!
+DEBUG:root:(2019-05-27 13:03) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:03) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:03) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:03) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:03) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:03) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:03) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:03) Done!
+DEBUG:root:(2019-05-27 13:03) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 13:03) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 13:03) -- [ Response 401 ] --
+DEBUG:root:(2019-05-27 13:03) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 13:03) ----
+DEBUG:root:(2019-05-27 13:03) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:03) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:03) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:03) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:03) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:03) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:03) Done!
+DEBUG:root:(2019-05-27 13:03) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 13:03) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 13:03) -- [ Response 401 ] --
+DEBUG:root:(2019-05-27 13:03) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 13:03) ----
+DEBUG:root:(2019-05-27 13:03) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:09) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:09) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:09) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:09) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:09) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:09) Done!
+DEBUG:root:(2019-05-27 13:09) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 13:09) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 13:09) -- [ Response 401 ] --
+DEBUG:root:(2019-05-27 13:09) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 13:09) ----
+DEBUG:root:(2019-05-27 13:09) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:10) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:10) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:10) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:10) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:10) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:10) Done!
+DEBUG:root:(2019-05-27 13:10) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 13:10) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 13:10) -- [ Response 401 ] --
+DEBUG:root:(2019-05-27 13:10) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 13:10) ----
+DEBUG:root:(2019-05-27 13:10) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:10) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:10) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:10) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:10) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:10) Done!
+DEBUG:root:(2019-05-27 13:10) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 401 None
+DEBUG:root:(2019-05-27 13:10) Error Sending request to Pushed Server
+
+DEBUG:root:(2019-05-27 13:10) -- [ Response 401 ] --
+DEBUG:root:(2019-05-27 13:10) {'error': {'type': 'app_credentials_are_not_valid', 'message': 'App credentials are not valid.'}}
+DEBUG:root:(2019-05-27 13:10) ----
+DEBUG:root:(2019-05-27 13:10) Starting couldHome version 0.1b
+DEBUG:root:(2019-05-27 13:10) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:10) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:10) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:10) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:10) Done!
+DEBUG:root:(2019-05-27 13:10) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:10) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:11) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:11) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:11) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:11) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:11) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:11) Done!
+DEBUG:root:(2019-05-27 13:11) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:11) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:12) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:12) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:12) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:12) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:12) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:12) Done!
+DEBUG:root:(2019-05-27 13:12) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:12) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:13) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:13) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:13) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:13) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:13) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:13) Done!
+DEBUG:root:(2019-05-27 13:13) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:13) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:17) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:17) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:17) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:17) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:17) Setting up doorbell RPi GPIO Pin 17
+(Change this in automate.py)
+DEBUG:root:(2019-05-27 13:17) Done!
+DEBUG:root:(2019-05-27 13:18) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:18) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:18) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:18) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:18) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:18) Done!
+DEBUG:root:(2019-05-27 13:19) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:19) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:19) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:19) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:19) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:19) Done!
+DEBUG:root:(2019-05-27 13:19) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:19) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:19) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:19) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:19) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:19) Done!
+DEBUG:root:(2019-05-27 13:19) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:19) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:19) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:19) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:19) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:19) Done!
+DEBUG:root:(2019-05-27 13:20) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:20) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:20) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:20) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:20) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:20) Done!
+DEBUG:root:(2019-05-27 13:20) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 13:20) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:20) Sent message to PUSHED Server
+DEBUG:root:(2019-05-27 13:21) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:21) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:21) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:21) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:21) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:21) Done!
+DEBUG:root:(2019-05-27 13:21) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 13:21) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:21) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 13:28) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:28) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:28) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:28) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:28) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:28) Done!
+DEBUG:root:(2019-05-27 13:28) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 13:28) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 13:28) Loading doorbell messages
+DEBUG:root:(2019-05-27 13:28) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 13:29) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 13:29) Done!
+DEBUG:root:(2019-05-27 13:29) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 13:29) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 13:29) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 14:10) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:10) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:10) Loading doorbell messages
+DEBUG:root:(2019-05-27 14:10) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:10) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:10) Done!
+DEBUG:root:(2019-05-27 14:16) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:16) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:16) Loading doorbell messages
+DEBUG:root:(2019-05-27 14:16) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:16) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:16) Done!
+DEBUG:root:(2019-05-27 14:17) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:17) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:17) Loading doorbell messages
+DEBUG:root:(2019-05-27 14:17) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:17) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:17) Done!
+DEBUG:root:(2019-05-27 14:43) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:43) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:43) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:43) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:43) Done!
+DEBUG:root:(2019-05-27 14:44) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:44) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:44) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:44) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:44) Done!
+DEBUG:root:(2019-05-27 14:44) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:44) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:44) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:44) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:44) Done!
+DEBUG:root:(2019-05-27 14:45) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:45) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:45) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:45) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:45) Done!
+DEBUG:root:(2019-05-27 14:48) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:48) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:48) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:48) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:48) Done!
+DEBUG:root:(2019-05-27 14:48) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:48) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:48) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:48) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:48) Done!
+DEBUG:root:(2019-05-27 14:49) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:49) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:49) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:49) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:49) Done!
+DEBUG:root:(2019-05-27 14:49) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:49) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:49) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:49) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:49) Done!
+DEBUG:root:(2019-05-27 14:50) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:50) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:50) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:50) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:50) Done!
+DEBUG:root:(2019-05-27 14:51) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:51) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:51) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:51) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:51) Done!
+DEBUG:root:(2019-05-27 14:51) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:51) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:51) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:51) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:51) Done!
+DEBUG:root:(2019-05-27 14:54) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:54) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:54) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:54) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:54) Done!
+DEBUG:root:(2019-05-27 14:56) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:56) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:56) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:56) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:56) Done!
+DEBUG:root:(2019-05-27 14:56) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:56) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:56) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:56) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:56) Done!
+DEBUG:root:(2019-05-27 14:56) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 14:56) Photo has been saved!
+DEBUG:root:(2019-05-27 14:56) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:56) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:56) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:56) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:56) Done!
+DEBUG:root:(2019-05-27 14:56) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 14:56) Photo has been saved!
+DEBUG:root:(2019-05-27 14:57) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:57) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:57) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:57) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:57) Done!
+DEBUG:root:(2019-05-27 14:57) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 14:57) Photo has been saved!
+DEBUG:root:(2019-05-27 14:59) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 14:59) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 14:59) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 14:59) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 14:59) Done!
+DEBUG:root:(2019-05-27 14:59) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 14:59) Photo has been saved!
+DEBUG:root:(2019-05-27 15:00) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:00) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:00) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:00) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:00) Done!
+DEBUG:root:(2019-05-27 15:00) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:00) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:00) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:00) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:00) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:00) Done!
+DEBUG:root:(2019-05-27 15:00) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:00) Photo has been saved!
+DEBUG:root:(2019-05-27 15:05) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:05) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:05) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:05) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:05) Done!
+DEBUG:root:(2019-05-27 15:05) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:05) Photo has been saved!
+DEBUG:root:(2019-05-27 15:06) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:06) Photo has been saved!
+DEBUG:root:(2019-05-27 15:07) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:07) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:07) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:07) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:07) Done!
+DEBUG:root:(2019-05-27 15:07) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:07) Photo has been saved!
+DEBUG:root:(2019-05-27 15:07) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 15:07) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 15:11) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:11) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:11) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:11) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:11) Done!
+DEBUG:root:(2019-05-27 15:11) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:11) Photo has been saved!
+DEBUG:root:(2019-05-27 15:11) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 15:11) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 15:15) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:15) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:15) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:15) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:15) Done!
+DEBUG:root:(2019-05-27 15:15) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:15) Photo has been saved!
+DEBUG:root:(2019-05-27 15:16) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:16) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:16) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:16) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:16) Done!
+DEBUG:root:(2019-05-27 15:17) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:17) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:17) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:17) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:17) Done!
+DEBUG:root:(2019-05-27 15:17) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:17) Photo has been saved!
+DEBUG:root:(2019-05-27 15:17) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 15:17) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 15:18) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:18) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:18) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:18) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:18) Done!
+DEBUG:root:(2019-05-27 15:18) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:18) Photo has been saved!
+DEBUG:root:(2019-05-27 15:18) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 15:18) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 15:20) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:20) Photo has been saved!
+DEBUG:root:(2019-05-27 15:20) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 15:20) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 15:55) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:55) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:55) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:55) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:55) Done!
+DEBUG:root:(2019-05-27 15:56) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 15:56) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 15:56) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 15:56) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 15:56) Done!
+DEBUG:root:(2019-05-27 15:56) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 15:57) Photo has been saved!
+DEBUG:root:(2019-05-27 15:57) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 15:57) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 16:03) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 16:03) Photo has been saved!
+DEBUG:root:(2019-05-27 16:03) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 16:03) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 18:16) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 18:16) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 18:16) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 18:16) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 18:16) Done!
+DEBUG:root:(2019-05-27 18:16) Stopping couldhome version 0.1b
+DEBUG:root:Stopped at (2019-05-27 18:16) 
+DEBUG:root:(2019-05-27 18:17:31) Starting couldhome version 0.1b
+DEBUG:root:(2019-05-27 18:17:31) Loading PUSHED credentials
+DEBUG:root:(2019-05-27 18:17:31) Setting up GPIO Pins
+DEBUG:root:(2019-05-27 18:17:31) Setting up doorbell RPi GPIO Pin 17
+DEBUG:root:(2019-05-27 18:17:31) Done!
+DEBUG:root:(2019-05-27 18:36:48) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 18:36:53) Photo has been saved!
+DEBUG:root:(2019-05-27 18:36:53) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 18:36:54) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-27 19:43:27) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-27 19:43:32) Photo has been saved!
+DEBUG:root:(2019-05-27 19:43:32) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-27 19:43:35) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-28 10:09:04) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-28 10:09:10) Photo has been saved!
+DEBUG:root:(2019-05-28 10:09:10) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-28 10:09:11) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-28 13:29:03) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-28 13:29:08) Photo has been saved!
+DEBUG:root:(2019-05-28 13:29:08) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-28 13:29:10) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-28 16:08:19) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-28 16:08:24) Photo has been saved!
+DEBUG:root:(2019-05-28 16:08:24) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-28 16:08:27) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-29 12:48:08) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-29 12:48:13) Photo has been saved!
+DEBUG:root:(2019-05-29 12:48:13) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-29 12:48:14) Sent message with URL to PUSHED Server
+DEBUG:root:(2019-05-29 20:20:39) Doorbell pressed on pin 17
+DEBUG:root:(2019-05-29 20:20:44) Photo has been saved!
+DEBUG:root:(2019-05-29 20:20:44) Fetching random response message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.pushed.co:443
+DEBUG:urllib3.connectionpool:https://api.pushed.co:443 "POST /1/push HTTP/1.1" 200 None
+DEBUG:root:(2019-05-29 20:20:45) Sent message with URL to PUSHED Server
