@@ -10,10 +10,10 @@ The aim of this application is to:
 - **Additional (configurable) event notifications**.
 
 Requirements:
-- **Raspberry Pi 2 or 3**.
+- **A Raspberry Pi 2/3** (a, b, b+).
 - **An old webcam**.
 - **Optionally a Resistor of 1k-5k ohms** (depending on your doorbell).
 
 Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).
 
-If you have any suggestions, please be sure to add them to the issues tab.
+If you have any suggestions, please be sure to add them to the issues tab!
