@@ -13,6 +13,8 @@ The aim of this application is to:
 
 Requirements:
 - A **Raspberry Pi 2/3** (a, b, b+) .
+- An **SD card**.
+- An **SD card reader**.
 - An **old webcam**.
 - (Optional) A **Resistor of 1k-5k ohms** (depending on your doorbell).
 
