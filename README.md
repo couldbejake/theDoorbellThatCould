@@ -5,6 +5,7 @@ Doorbell image notifications, daily doorbell gallery and configurable randomized
 Create your own **$30 (£25) ringing picture doorbell using a Raspberry Pi** and an **old webcam**.
 
 **Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).**
+
 **Visit the Issues tab for [support](https://github.com/couldbejake/theDoorbellThatCould/issues).**
 
 The aim of this application is to:
