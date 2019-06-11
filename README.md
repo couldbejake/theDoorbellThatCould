@@ -3,7 +3,10 @@
 
   Doorbell image notifications, daily doorbell gallery and configurable randomized notification texts.
 
-Create your own **retro-fitted £30 ringing doorbell using a Raspberry Pi** and an **old webcam**.
+Create your own **$30 ringing picture doorbell using a Raspberry Pi** and an **old webcam**.
+
+
+**Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).**
 
 The aim of this application is to:
 - **Provide users with a picture of the doorbell when your doorbell rings**.
@@ -17,8 +20,6 @@ Requirements:
 - An **SD card reader**.
 - An **old webcam**.
 - (Optional) A **Resistor of 1k-5k ohms** (depending on your doorbell).
-
-**Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).**
 
 If you have any suggestions, please be sure to add them to the issues tab!
 
