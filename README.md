@@ -2,7 +2,7 @@
  
 Doorbell image notifications, daily doorbell gallery and configurable randomized notification texts.
 
-Create your own **$30 (£25) ringing picture doorbell using a Raspberry Pi** and an **old webcam**.
+Create your own ringing picture doorbell using a Raspberry Pi** and an **old webcam**.
 
 **Visit the Wiki for information on [installation](https://github.com/couldbejake/theDoorbellThatCould/wiki/).**
 
