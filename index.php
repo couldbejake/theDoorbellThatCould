@@ -19,7 +19,7 @@
 
     <div class="container">
 
-        <?php $files=s candir( "images/" . date( 'Y-m-d')); $files=a rray_reverse($files); foreach($files as $file){ if (strpos($file, '.jpg') !==f alse) { $without_extension=s ubstr($file, 0, strrpos($file, ".")); echo "<div class='col-sm-4'>"; echo "<p>" . str_replace( "-", ":",$without_extension) . "</p>"; echo "<img src='/doorbell/images/" . date( 'Y-m-d') . "/". $file . "' style='width:100%;'>"; echo "</div>"; } } ?>
+        <?php $files=scandir( "images/" . date( 'Y-m-d')); $files=array_reverse($files); foreach($files as $file){ if (strpos($file, '.jpg') !==false) { $without_extension=substr($file, 0, strrpos($file, ".")); echo "<div class='col-sm-4'>"; echo "<p>" . str_replace( "-", ":",$without_extension) . "</p>"; echo "<img src='/doorbell/images/" . date( 'Y-m-d') . "/". $file . "' style='width:100%;'>"; echo "</div>"; } } ?>
 
     </div>
 
