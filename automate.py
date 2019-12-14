@@ -58,16 +58,14 @@ def main():
 
 	while True:
 		if (GPIO.input(DOORBELL_GPIO) == True):
-		#if (input() != "adasd"):
 			time.sleep(2)
 			logger.log("Doorbell pressed on pin {}".format(DOORBELL_GPIO))
 			img_dir = pcam.saveNextImage()
-			#print(img_dir)
 			logger.log("Photo has been saved!")
-
-			#url = "http://pinewood.thesunflowergeneration.com/doorbell/"+img_dir
+			
 			url = "http://pinewood.thesunflowergeneration.com/doorbell/"
 			nm.messageAllURL(randomMessage("doorbell"), url, True)
+			
 			time.sleep(10)
 
 if __name__ == '__main__':
